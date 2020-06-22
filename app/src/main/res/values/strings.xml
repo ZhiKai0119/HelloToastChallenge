@@ -4,4 +4,5 @@
     <string name="count_text">COUNT</string>
     <string name="zero">0</string>
     <string name="toast_message">Chong Zhi Kai 19WMD05479</string>
+    <string name="Toast">Hello Toast</string>
 </resources>
